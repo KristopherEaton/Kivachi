@@ -1,0 +1,1 @@
+Relocate to AWS S3 or CDN of some sort, only storing images here for build of project.
